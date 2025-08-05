@@ -15,8 +15,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-USERNAME = "hell.ow2649"
-PASSWORD = "Hardi@Hardi1102"
+USERNAME = "YOURUSERNAME"
+PASSWORD = "YOURPASSCODE"
 SESSION_FILE = "insta_session.pkl"
 
 cl = Client()
