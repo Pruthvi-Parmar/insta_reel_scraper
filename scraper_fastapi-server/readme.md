@@ -1,0 +1,1 @@
+run this python script in jupyter or colab which will create session and using that session.pkl we can make many calls otherwise need to enter otp everytime when we make call.!
